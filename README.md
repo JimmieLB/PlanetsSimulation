@@ -1,5 +1,7 @@
 # PlanetsSimulation
 
+See it in action: https://jimmielb.github.io/PlanetsSimulation/
+
 This is a project that I worked on around my sophomore year in high school.
 I've made very minor changes to it since then and I thought I should show it.
 
