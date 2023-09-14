@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#slider {
+  position: absolute;
+  left: 10px;
+  top: 10px;
+}
+
+#info {
+  position: fixed;
+  left: 50%;
+  top: 15px;
+  color:white;
+  width: 50%;
+  text-align: center;
+  transform: translateX(-50%);
+  font-size: 1.2em;
+  font-family: typographica;
+}
+
+/* canvas {
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+} */
+
+@font-face {
+  font-family: typographica;
+  src: url(assets/Typographica.ttf);
+}
