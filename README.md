@@ -2,6 +2,9 @@
 
 See it in action: https://jimmielb.github.io/PlanetsSimulation/
 
+
+![image](https://github.com/JimmieLB/PlanetsSimulation/assets/60014163/e64c3134-4e3b-4ab5-8456-28514cc65bd7)
+
 This is a project that I worked on around my sophomore year in high school.
 I've made very minor changes to it since then and I thought I should show it.
 
